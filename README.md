@@ -1,7 +1,8 @@
 Internship Management System
+
 A secure, modular PHP + MySQL admin dashboard built for managing internship programs, structured tasks, and reviews.
 
- What This Project Is:
+What This Project Is:
 
 This is a fully functional backend-driven internship management system with:
 
@@ -44,9 +45,13 @@ This isn’t just a basic CRUD project.
 It includes:
 
 ✔ SQL Injection Protection (Prepared Statements)
+
 ✔ XSS Prevention using htmlspecialchars()
+
 ✔ Session-Based Admin Authentication
+
 ✔ JSON API responses
+
 ✔ Sensitive config file excluded via .gitignore
 
 Architecture:
@@ -71,7 +76,8 @@ add_monthly_task.php
 add_weekly_task.php
 db_ReviewADD.php
 config.php (ignored)
-🚀 How To Run
+
+How To Run:
 
 Clone the repo
 
@@ -84,7 +90,8 @@ Run on XAMPP / WAMP
 Open:
 
 http://localhost/project-folder/admin_page.php
-🎯 Why This Project Stands Out
+
+ Why This Project Stands Out:
 
 Unlike basic CRUD demos, this project focuses on:
 
@@ -110,8 +117,8 @@ MVC architecture
 
 Pagination & search filters
 
-👨‍💻 Developer
+Developer
 
-Your Name
+Trupti Jangid
 Backend-Focused Developer
 PHP | MySQL | Secure Systems
