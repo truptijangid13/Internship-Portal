@@ -1,6 +1,8 @@
  INTERNSHIP MANAGEMENT SYSTEM
+ 
  A Secure, Modular PHP + MySQL Admin Dashboard
 Built for Managing Internship Programs, Structured Tasks & Reviews
+
  WHAT THIS PROJECT DOES:
 
 This is a backend-driven internship management system designed with real-world development standards.
