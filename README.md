@@ -1,14 +1,14 @@
 <div align="center">
 
-# 🚀 INTERNSHIP MANAGEMENT SYSTEM
+#  INTERNSHIP MANAGEMENT SYSTEM
 
-### 🔥 Secure • Modular • Backend-Driven • Production-Style
+###  Secure • Modular • Backend-Driven • Production-Style
 
 </div>
 
 ---
 
-## 💼 ABOUT THE PROJECT
+##  ABOUT THE PROJECT
 
 **A powerful PHP + MySQL Admin Dashboard** built to manage internship programs, structured tasks, and review workflows with real-world security practices.
 
@@ -21,7 +21,7 @@ It is a structured backend system designed with:
 
 ---
 
-# ✨ CORE FEATURES
+#  CORE FEATURES
 
 ### 📦 Program Management  
 ### 📅 Monthly Task Tracking  
@@ -32,7 +32,7 @@ It is a structured backend system designed with:
 
 ---
 
-# 🧠 TECH STACK
+#  TECH STACK
 
 - **PHP** → Backend Logic  
 - **MySQL** → Database  
@@ -42,7 +42,7 @@ It is a structured backend system designed with:
 
 ---
 
-# 🗄 DATABASE TABLES
+#  DATABASE TABLES
 
 
 internships
@@ -56,7 +56,7 @@ weekly_tasks
 
 ---
 
-# 🔐 SECURITY IMPLEMENTATION
+#  SECURITY IMPLEMENTATION
 
 ✔ **SQL Injection Protection (Prepared Statements)**  
 ✔ **XSS Prevention using htmlspecialchars()**  
@@ -66,7 +66,7 @@ weekly_tasks
 
 ---
 
-# 🏗 SYSTEM ARCHITECTURE
+#  SYSTEM ARCHITECTURE
 
 
 Admin Dashboard
@@ -80,7 +80,7 @@ MySQL Database
 
 ---
 
-# 📂 PROJECT MODULES
+#  PROJECT MODULES
 
 
 admin_page.php
@@ -94,7 +94,7 @@ config.php (ignored)
 
 ---
 
-# 🚀 HOW TO RUN
+#  HOW TO RUN
 
 1. Clone the repository  
 2. Create the MySQL database  
@@ -108,7 +108,7 @@ http://localhost/project-folder/admin_page.php
 
 ---
 
-# 💎 WHY THIS PROJECT STANDS OUT
+#  WHY THIS PROJECT STANDS OUT
 
 ✔ Clean Backend Structure  
 ✔ Production-Level Security  
@@ -119,7 +119,7 @@ http://localhost/project-folder/admin_page.php
 
 <div align="center">
 
-# 👩‍💻 Trupti Jangid  
+#  Trupti Jangid  
 ### Backend Developer • PHP • MySQL • Secure Systems  
 
 </div>
